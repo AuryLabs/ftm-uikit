@@ -32,11 +32,7 @@ const connectors: Config[] = [
     icon: WalletConnect,
     connectorId: "walletconnect",
   },
-  {
-    title: "Binance Chain Wallet",
-    icon: BinanceChain,
-    connectorId: "bsc",
-  },
+
 ];
 
 export default connectors;

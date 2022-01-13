@@ -2222,18 +2222,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/aurylabs",
+                href: "https://t.me/furylabs",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/furylabsannouncement",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/AuryLabs",
+        href: "https://twitter.com/FuryLabs_",
     },
 ];
 var MENU_HEIGHT = 64;

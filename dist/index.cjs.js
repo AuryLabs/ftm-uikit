@@ -2226,7 +2226,7 @@ var socials = [
             },
             {
                 label: "Announcements",
-                href: "https://t.me/furylabsannouncement",
+                href: "https://t.me/furylabs_announcement",
             },
         ],
     },

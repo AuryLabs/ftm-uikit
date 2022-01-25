@@ -2374,6 +2374,10 @@ var Panel = function (props) {
     var isPushed = props.isPushed, showMenu = props.showMenu;
     return (React.createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
         React.createElement(PanelBody, __assign({}, props)),
+        React.createElement("a", { href: "https://paladinsec.co/projects/furylabs/", target: "_blank" },
+            React.createElement("img", { src: "https://paladinsec.co/pld/assets/audited-by-paladin-standard.svg", width: "370" })),
+        React.createElement("a", { href: "https://rugdoc.io/project/furylab/" },
+            React.createElement(Image, { src: "https://rugdoc.io/assets/2021/05/rugdoc-review-badge-for-light-bg.png", width: 370, height: 121, responsive: true, alt: "RugDocReview" })),
         React.createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$7;
